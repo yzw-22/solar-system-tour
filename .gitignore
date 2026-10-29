@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# 渲染缓存与预览产物
+frames/
+preview/
+sky.npz
+*.wav
+
+# 根目录历史产物（成片统一放 video/）
+/solar_system_tour.mp4
+/tour_audio.wav
